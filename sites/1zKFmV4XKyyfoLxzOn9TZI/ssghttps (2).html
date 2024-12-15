@@ -1,7 +1,7 @@
 // @ts-nocheck /** * This file is generated inside FramerStudio. To update it
 run "make build" * inside "./src/codeblock-dependencies" and copy the file from
 "./build". */ // ../../node_modules/@codemirror/autocomplete/dist/index.js
-import{Annotation,StateEffect,EditorSelection,codePointAt,codePointSize,fromCodePoint,Facet,combineConfig,StateField,Prec,Text,MapMode,RangeValue,RangeSet,CharCategory}from"https://framerusercontent.com/modules/wFkXxZqfKOPeEQtsYrsa/Xcw7qvncyogRPQtf9aNn/codemirror_state.js";import{Direction,ViewPlugin,logException,getTooltip,showTooltip,EditorView,Decoration,WidgetType,keymap}from"https://framerusercontent.com/modules/wKCR2JyUW8wZdYweJrou/EndxaPZLF2o4GndkIvF9/codemirror_view.js";import{syntaxTree,indentUnit}from"https://framerusercontent.com/modules/aJsTBlWNkIaM900KNIXT/TeoF57xeGMuVMjiI2ooR/codemirror_language.js";var
+import{Annotation,StateEffect,EditorSelection,codePointAt,codePointSize,fromCodePoint,Facet,combineConfig,StateField,Prec,Text,MapMode,RangeValue,RangeSet,CharCategory}from"/modules/wFkXxZqfKOPeEQtsYrsa/Xcw7qvncyogRPQtf9aNn/codemirror_state.js";import{Direction,ViewPlugin,logException,getTooltip,showTooltip,EditorView,Decoration,WidgetType,keymap}from"/modules/wKCR2JyUW8wZdYweJrou/EndxaPZLF2o4GndkIvF9/codemirror_view.js";import{syntaxTree,indentUnit}from"/modules/aJsTBlWNkIaM900KNIXT/TeoF57xeGMuVMjiI2ooR/codemirror_language.js";var
 CompletionContext=class{/** Get the extent, content, and (if there is a token)
 type of the token before `this.pos`. */ tokenBefore(types){let
 token=syntaxTree(this.state).resolveInner(this.pos,-1);while(token&&types.indexOf(token.name)<0)token=token.parent;return
