@@ -33481,476 +33481,7 @@ var n2 = be(zr),
                         }),
                       }),
                     }),
-                    _("section", {
-                      className: "framer-1nwhh6k",
-                      "data-framer-name": "About",
-                      id: x,
-                      name: "About",
-                      ref: w,
-                      children: [
-                        _("div", {
-                          className: "framer-od6gw3",
-                          "data-framer-name": "Text & Button",
-                          name: "Text & Button",
-                          children: [
-                            v() &&
-                              n(Q, {
-                                breakpoint: l,
-                                overrides: { xIF_hF2cI: { y: void 0 } },
-                                children: n(ee, {
-                                  height: 48,
-                                  y: 1270,
-                                  children: n(Vn, {
-                                    __framer__animate: { transition: Or },
-                                    __framer__animateOnce: !0,
-                                    __framer__enter: Go,
-                                    __framer__styleAppearEffectEnabled: !0,
-                                    __framer__threshold: 0.5,
-                                    __perspectiveFX: !1,
-                                    __targetOpacity: 1,
-                                    className:
-                                      "framer-fl9649-container hidden-5tblbe",
-                                    style: { transformPerspective: 1200 },
-                                    children: n(Ao, {
-                                      height: "100%",
-                                      id: "U38JBl1yJ",
-                                      layoutId: "U38JBl1yJ",
-                                      variant: "BtQCbPFkQ",
-                                      width: "100%",
-                                    }),
-                                  }),
-                                }),
-                              }),
-                            n(Q, {
-                              breakpoint: l,
-                              overrides: {
-                                oXRgd0YB4: {
-                                  children: n(S, {
-                                    children: n("h3", {
-                                      style: {
-                                        "--font-selector":
-                                          "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                        "--framer-font-family":
-                                          '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                        "--framer-font-size": "25px",
-                                        "--framer-font-weight": "500",
-                                        "--framer-letter-spacing": "0px",
-                                        "--framer-text-alignment": "center",
-                                        "--framer-text-color":
-                                          "rgb(255, 255, 255)",
-                                      },
-                                      children: n("span", {
-                                        "data-text-fill": "true",
-                                        style: {
-                                          backgroundImage:
-                                            "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                        },
-                                        children: "Testnet L1 Launch Countdown",
-                                      }),
-                                    }),
-                                  }),
-                                },
-                                xIF_hF2cI: {
-                                  children: n(S, {
-                                    children: n("h3", {
-                                      style: {
-                                        "--font-selector":
-                                          "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                        "--framer-font-family":
-                                          '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                        "--framer-font-size": "65px",
-                                        "--framer-font-weight": "500",
-                                        "--framer-letter-spacing": "0px",
-                                        "--framer-text-alignment": "center",
-                                        "--framer-text-color":
-                                          "rgb(255, 255, 255)",
-                                      },
-                                      children: _("span", {
-                                        "data-text-fill": "true",
-                                        style: {
-                                          backgroundImage:
-                                            "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                        },
-                                        children: [
-                                          "Testnet L1 Launch Countdown \u{1F7E2}",
-                                          n("br", {}),
-                                          "12 of January 2025 ( save the day)",
-                                          n("br", {}),
-                                          n("br", {}),
-                                          "Days     Hours     Min     Seconds",
-                                        ],
-                                      }),
-                                    }),
-                                  }),
-                                },
-                              },
-                              children: n(Pn, {
-                                __framer__animate: { transition: Or },
-                                __framer__animateOnce: !0,
-                                __framer__enter: Go,
-                                __framer__styleAppearEffectEnabled: !0,
-                                __framer__threshold: 0.5,
-                                __fromCanvasComponent: !0,
-                                __perspectiveFX: !1,
-                                __targetOpacity: 1,
-                                children: n(S, {
-                                  children: _("h3", {
-                                    style: {
-                                      "--font-selector":
-                                        "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                      "--framer-font-family":
-                                        '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                      "--framer-font-size": "20px",
-                                      "--framer-font-weight": "500",
-                                      "--framer-letter-spacing": "0px",
-                                      "--framer-text-alignment": "center",
-                                      "--framer-text-color":
-                                        "rgb(255, 255, 255)",
-                                    },
-                                    children: [
-                                      n("span", {
-                                        "data-text-fill": "true",
-                                        style: {
-                                          backgroundImage:
-                                            "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                        },
-                                        children: n("span", {
-                                          style: {
-                                            "--framer-font-size": "65px",
-                                          },
-                                          children:
-                                            "Testnet L1 Launch Countdown ",
-                                        }),
-                                      }),
-                                      n(he, {
-                                        href: "https://emojipedia.org/large-green-circle",
-                                        openInNewTab: !1,
-                                        smoothScroll: !1,
-                                        children: n("a", {
-                                          children: n("span", {
-                                            style: {
-                                              "--framer-font-size": "65px",
-                                            },
-                                            children: "\u{1F7E2}",
-                                          }),
-                                        }),
-                                      }),
-                                      n("span", {
-                                        style: { "--framer-font-size": "65px" },
-                                        children: n("br", {}),
-                                      }),
-                                      _("span", {
-                                        "data-text-fill": "true",
-                                        style: {
-                                          backgroundImage:
-                                            "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                        },
-                                        children: [
-                                          n("span", {
-                                            style: {
-                                              "--framer-font-size": "35px",
-                                            },
-                                            children:
-                                              "12 of January 2025 ( save the day)",
-                                          }),
-                                          _("span", {
-                                            style: {
-                                              "--framer-font-size": "35px",
-                                            },
-                                            children: [
-                                              n("br", {}),
-                                              n("br", {}),
-                                            ],
-                                          }),
-                                          n("span", {
-                                            style: {
-                                              "--framer-font-size": "35px",
-                                            },
-                                            children:
-                                              "Days     Hours     Min     Seconds",
-                                          }),
-                                          n("span", {
-                                            style: {
-                                              "--framer-font-size": "35px",
-                                            },
-                                            children: n("br", {}),
-                                          }),
-                                        ],
-                                      }),
-                                    ],
-                                  }),
-                                }),
-                                className: "framer-w56tjk",
-                                fonts: ["GF;Inter Tight-500"],
-                                style: { transformPerspective: 1200 },
-                                verticalAlignment: "top",
-                                withExternalLayout: !0,
-                              }),
-                            }),
-                            _("div", {
-                              className: "framer-wt8gf5",
-                              "data-framer-name": "Text",
-                              name: "Text",
-                              children: [
-                                n(ee, {
-                                  children: n(it, {
-                                    className: "framer-7cuqp1-container",
-                                    children: n(Q, {
-                                      breakpoint: l,
-                                      overrides: {
-                                        oXRgd0YB4: {
-                                          font: {
-                                            fontFamily: '"Inter", sans-serif',
-                                            fontSize: "30px",
-                                            fontStyle: "normal",
-                                            letterSpacing: "0.16em",
-                                            lineHeight: "2.3em",
-                                            textAlign: "center",
-                                          },
-                                        },
-                                      },
-                                      children: n(Fr, {
-                                        color: "rgb(130, 198, 251)",
-                                        date: "2025-01-12T00:00:00.000Z",
-                                        displayProps: {
-                                          dayLabel: "D",
-                                          digitCount: !1,
-                                          hourLabel: "H",
-                                          labelSpace: !0,
-                                          labelType: !0,
-                                          minuteLabel: "M",
-                                          numberSpace: !1,
-                                          secondLabel: "S",
-                                          showHours: !0,
-                                          showMinutes: !0,
-                                          showSeconds: !0,
-                                          tabularFont: !0,
-                                        },
-                                        font: {
-                                          fontFamily: '"Inter", sans-serif',
-                                          fontSize: "47px",
-                                          fontStyle: "normal",
-                                          letterSpacing: "0.16em",
-                                          lineHeight: "2.3em",
-                                          textAlign: "center",
-                                        },
-                                        height: "100%",
-                                        id: "O8k0BwyNn",
-                                        labelColor: "rgba(153, 153, 153, 0.5)",
-                                        layoutId: "O8k0BwyNn",
-                                        pickTime: 0,
-                                        width: "100%",
-                                      }),
-                                    }),
-                                  }),
-                                }),
-                                n(Q, {
-                                  breakpoint: l,
-                                  overrides: {
-                                    I_cQC0SJ_: {
-                                      children: n(S, {
-                                        children: n("h3", {
-                                          style: {
-                                            "--font-selector":
-                                              "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                            "--framer-font-family":
-                                              '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                            "--framer-font-size": "55px",
-                                            "--framer-font-weight": "500",
-                                            "--framer-letter-spacing": "0px",
-                                            "--framer-text-alignment": "center",
-                                            "--framer-text-color":
-                                              "rgb(255, 255, 255)",
-                                          },
-                                          children: _("span", {
-                                            "data-text-fill": "true",
-                                            style: {
-                                              backgroundImage:
-                                                "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                            },
-                                            children: [
-                                              n("br", {}),
-                                              n("br", {}),
-                                              "We aim to establish a distributed AGI, affectionately known as Eva, residing in nodes around the world.",
-                                            ],
-                                          }),
-                                        }),
-                                      }),
-                                    },
-                                    oXRgd0YB4: {
-                                      children: n(S, {
-                                        children: n("h3", {
-                                          style: {
-                                            "--font-selector":
-                                              "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                            "--framer-font-family":
-                                              '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                            "--framer-font-size": "40px",
-                                            "--framer-font-weight": "500",
-                                            "--framer-letter-spacing": "0px",
-                                            "--framer-text-alignment": "center",
-                                            "--framer-text-color":
-                                              "rgb(255, 255, 255)",
-                                          },
-                                          children: _("span", {
-                                            "data-text-fill": "true",
-                                            style: {
-                                              backgroundImage:
-                                                "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                            },
-                                            children: [
-                                              n("br", {}),
-                                              n("br", {}),
-                                              "We aim to establish a distributed AGI, affectionately known as Eva, residing in nodes around the world.",
-                                            ],
-                                          }),
-                                        }),
-                                      }),
-                                    },
-                                    xIF_hF2cI: {
-                                      children: n(S, {
-                                        children: n("h3", {
-                                          style: {
-                                            "--font-selector":
-                                              "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                            "--framer-font-family":
-                                              '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                            "--framer-font-size": "55px",
-                                            "--framer-font-weight": "500",
-                                            "--framer-letter-spacing": "0px",
-                                            "--framer-text-alignment": "center",
-                                            "--framer-text-color":
-                                              "rgb(255, 255, 255)",
-                                          },
-                                          children: _("span", {
-                                            "data-text-fill": "true",
-                                            style: {
-                                              backgroundImage:
-                                                "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                            },
-                                            children: [
-                                              n("br", {}),
-                                              n("br", {}),
-                                              "We aim to establish a distributed AGI, affectionately known as Eva, residing in nodes around the world.",
-                                            ],
-                                          }),
-                                        }),
-                                      }),
-                                    },
-                                  },
-                                  children: n(Pn, {
-                                    __framer__animate: { transition: Or },
-                                    __framer__animateOnce: !0,
-                                    __framer__enter: Go,
-                                    __framer__styleAppearEffectEnabled: !0,
-                                    __framer__threshold: 0.5,
-                                    __fromCanvasComponent: !0,
-                                    __perspectiveFX: !1,
-                                    __targetOpacity: 1,
-                                    children: n(S, {
-                                      children: n("h3", {
-                                        style: {
-                                          "--font-selector":
-                                            "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                          "--framer-font-family":
-                                            '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                          "--framer-font-size": "65px",
-                                          "--framer-font-weight": "500",
-                                          "--framer-letter-spacing": "0px",
-                                          "--framer-text-alignment": "center",
-                                          "--framer-text-color":
-                                            "rgb(255, 255, 255)",
-                                        },
-                                        children: _("span", {
-                                          "data-text-fill": "true",
-                                          style: {
-                                            backgroundImage:
-                                              "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                          },
-                                          children: [
-                                            n("br", {}),
-                                            n("br", {}),
-                                            "We aim to establish a distributed AGI, affectionately known as Eva, residing in nodes around the world.",
-                                          ],
-                                        }),
-                                      }),
-                                    }),
-                                    className: "framer-phcsba",
-                                    fonts: ["GF;Inter Tight-500"],
-                                    style: { transformPerspective: 1200 },
-                                    verticalAlignment: "top",
-                                    withExternalLayout: !0,
-                                  }),
-                                }),
-                              ],
-                            }),
-                          ],
-                        }),
-                        v() &&
-                          n(Q, {
-                            breakpoint: l,
-                            overrides: {
-                              I_cQC0SJ_: {
-                                children: n(S, {
-                                  children: n("p", {
-                                    style: {
-                                      "--font-selector":
-                                        "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                      "--framer-font-family":
-                                        '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                      "--framer-font-size": "500px",
-                                      "--framer-font-weight": "500",
-                                      "--framer-letter-spacing": "-1.5px",
-                                      "--framer-text-color":
-                                        "rgb(255, 255, 255)",
-                                    },
-                                    children: n("span", {
-                                      "data-text-fill": "true",
-                                      style: {
-                                        backgroundImage:
-                                          "linear-gradient(0deg, rgba(255, 255, 255, 0.2) 0%, rgb(112, 190, 250) 100%)",
-                                      },
-                                      children: "     ",
-                                    }),
-                                  }),
-                                }),
-                              },
-                            },
-                            children: n(V, {
-                              __fromCanvasComponent: !0,
-                              children: n(S, {
-                                children: n("p", {
-                                  style: {
-                                    "--font-selector":
-                                      "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                    "--framer-font-family":
-                                      '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                    "--framer-font-size": "363px",
-                                    "--framer-font-weight": "500",
-                                    "--framer-letter-spacing": "-1.5px",
-                                    "--framer-text-color": "rgb(255, 255, 255)",
-                                  },
-                                  children: n("span", {
-                                    "data-text-fill": "true",
-                                    style: {
-                                      backgroundImage:
-                                        "linear-gradient(0deg, rgba(255, 255, 255, 0.2) 0%, rgb(112, 190, 250) 100%)",
-                                    },
-                                    children: "EVA",
-                                  }),
-                                }),
-                              }),
-                              className: "framer-pox1sj hidden-5tblbe",
-                              "data-framer-name": "Background Text",
-                              fonts: ["GF;Inter Tight-500"],
-                              name: "Background Text",
-                              transformTemplate: fp,
-                              verticalAlignment: "top",
-                              withExternalLayout: !0,
-                            }),
-                          }),
-                      ],
-                    }),
+
                     _("div", {
                       className: "framer-n1xits",
                       "data-framer-name": "2 Columns Image Text",
@@ -33974,28 +33505,28 @@ var n2 = be(zr),
                                 bottomLeftRadius: 15,
                                 bottomRightRadius: 15,
                                 code: `import unittest
-import asyncio
-from unittest.mock import patch, MagicMock
-from core.networking.EVANetwork import EVAP2PManager
+                                  import asyncio
+                                  from unittest.mock import patch, MagicMock
+                                  from core.networking.EVANetwork import EVAP2PManager
 
-class TestEVAP2PManager(unittest.TestCase):
-    def setUp(self):
-        self.config = {
-            'p2p': {'max_peers': 10},
-            'network': {
-                'version': '1.0',
-                'chain_id': 1,
-                'mainnet': {'bootstrap_nodes': ['node1:30303', 'node2:30303']}
-            },
-            'sharding': {'num_shards': 4}
-        }
-        self.p2p_manager = EVAP2PManager(self.config)
+                                  class TestEVAP2PManager(unittest.TestCase):
+                                      def setUp(self):
+                                          self.config = {
+                                              'p2p': {'max_peers': 10},
+                                              'network': {
+                                                  'version': '1.0',
+                                                  'chain_id': 1,
+                                                  'mainnet': {'bootstrap_nodes': ['node1:30303', 'node2:30303']}
+                                              },
+                                              'sharding': {'num_shards': 4}
+                                          }
+                                          self.p2p_manager = EVAP2PManager(self.config)
 
-    def test_initialization(self):
-        self.assertEqual(self.p2p_manager.max_peers, 10)
-        self.assertEqual(len(self.p2p_manager.peers), 0)
-        self.assertEqual(len(self.p2p_manager.shard_peers), 4)
-`,
+                                      def test_initialization(self):
+                                          self.assertEqual(self.p2p_manager.max_peers, 10)
+                                          self.assertEqual(len(self.p2p_manager.peers), 0)
+                                          self.assertEqual(len(self.p2p_manager.shard_peers), 4)
+                                  `,
                                 darkTheme: "framerDark",
                                 font: {
                                   fontFamily: '"Fragment Mono", monospace',
@@ -34431,45 +33962,7 @@ class TestEVAP2PManager(unittest.TestCase):
                             }),
                           ],
                         }),
-                        _("div", {
-                          className: "framer-li73jp",
-                          children: [
-                            n(he, {
-                              href: "https://medium.com/",
-                              children: n(Q, {
-                                breakpoint: l,
-                                overrides: {
-                                  oXRgd0YB4: {
-                                    background: {
-                                      alt: "",
-                                      fit: "fill",
-                                      pixelHeight: 1114,
-                                      pixelWidth: 4488,
-                                      sizes: "142px",
-                                      src: "/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png",
-                                      srcSet:
-                                        "/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=512 512w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=1024 1024w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=2048 2048w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=4096 4096w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png 4488w",
-                                    },
-                                  },
-                                },
-                                children: n(ne, {
-                                  as: "a",
-                                  background: {
-                                    alt: "",
-                                    fit: "fill",
-                                    pixelHeight: 1114,
-                                    pixelWidth: 4488,
-                                    sizes: "235px",
-                                    src: "/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png",
-                                    srcSet:
-                                      "/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=512 512w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=1024 1024w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=2048 2048w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png?scale-down-to=4096 4096w,/images/D6l8kbBZzMJ9iiCGpvxuZy0Ebg.png 4488w",
-                                  },
-                                  className: "framer-csy7j0 framer-lux5qc",
-                                }),
-                              }),
-                            }),
-                          ],
-                        }),
+                      
                       ],
                     }),
                     _("section", {
@@ -34630,7 +34123,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                     children: n("h3", {
                                       className: "framer-styles-preset-6ghdir",
                                       "data-styles-preset": "E4lBliITk",
-                                      children: "IT Contributors",
+                                      children: "Total Supply",
                                     }),
                                   }),
                                   className: "framer-o5cyk3",
@@ -34662,7 +34155,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                               backgroundImage:
                                                 "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                             },
-                                            children: "22+",
+                                            children: "100M",
                                           }),
                                         }),
                                       }),
@@ -34688,7 +34181,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                               backgroundImage:
                                                 "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                             },
-                                            children: "22+",
+                                            children: "100M",
                                           }),
                                         }),
                                       }),
@@ -34714,7 +34207,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                               backgroundImage:
                                                 "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                             },
-                                            children: "22+",
+                                            children: "100M",
                                           }),
                                         }),
                                       }),
@@ -34742,7 +34235,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                             backgroundImage:
                                               "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                           },
-                                          children: "22+",
+                                          children: "100M",
                                         }),
                                       }),
                                     }),
@@ -34814,7 +34307,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                         className:
                                           "framer-styles-preset-6ghdir",
                                         "data-styles-preset": "E4lBliITk",
-                                        children: "by Community",
+                                        children: "Liquidity Pool",
                                       }),
                                     }),
                                     className: "framer-vhlhk6",
@@ -34846,7 +34339,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "100%",
+                                              children: "Burned",
                                             }),
                                           }),
                                         }),
@@ -34872,7 +34365,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "100%",
+                                              children: "Burned",
                                             }),
                                           }),
                                         }),
@@ -34898,7 +34391,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "100%",
+                                              children: "Burned",
                                             }),
                                           }),
                                         }),
@@ -34926,7 +34419,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                               backgroundImage:
                                                 "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                             },
-                                            children: "100%",
+                                            children: "Burned",
                                           }),
                                         }),
                                       }),
@@ -35000,7 +34493,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                         className:
                                           "framer-styles-preset-6ghdir",
                                         "data-styles-preset": "E4lBliITk",
-                                        children: "Hours invested ",
+                                        children: "Tax",
                                       }),
                                     }),
                                     className: "framer-5vs0k6",
@@ -35032,7 +34525,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "5490h",
+                                              children: "0% Buy/Sell",
                                             }),
                                           }),
                                         }),
@@ -35058,7 +34551,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "5490h",
+                                              children: "0% Buy/Sell",
                                             }),
                                           }),
                                         }),
@@ -35084,7 +34577,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "5490h",
+                                              children: "0% Buy/Sell",
                                             }),
                                           }),
                                         }),
@@ -35112,7 +34605,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                               backgroundImage:
                                                 "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                             },
-                                            children: "5490h",
+                                            children: "0% Buy/Sell",
                                           }),
                                         }),
                                       }),
@@ -35186,7 +34679,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                         className:
                                           "framer-styles-preset-6ghdir",
                                         "data-styles-preset": "E4lBliITk",
-                                        children: "Lines of code",
+                                        children: "Ownership",
                                       }),
                                     }),
                                     className: "framer-3rt3ru",
@@ -35218,7 +34711,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "63k",
+                                              children: "Renounced",
                                             }),
                                           }),
                                         }),
@@ -35244,7 +34737,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "63k",
+                                              children: "63Renouncedk",
                                             }),
                                           }),
                                         }),
@@ -35270,7 +34763,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 backgroundImage:
                                                   "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                               },
-                                              children: "63k",
+                                              children: "Renounced",
                                             }),
                                           }),
                                         }),
@@ -35298,7 +34791,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                               backgroundImage:
                                                 "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
                                             },
-                                            children: "63k",
+                                            children: "Renounced",
                                           }),
                                         }),
                                       }),
@@ -36111,7 +35604,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                           "--framer-text-color":
                                             "var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255))",
                                         },
-                                        children: "Total Fixed Supply: 21M",
+                                        children: "Total Fixed Supply: 100M",
                                       }),
                                     }),
                                   },
@@ -36129,7 +35622,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                           "--framer-text-color":
                                             "var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255))",
                                         },
-                                        children: "Total Fixed Supply: 21M",
+                                        children: "Total Fixed Supply: 100M",
                                       }),
                                     }),
                                   },
@@ -36149,7 +35642,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                         "--framer-text-color":
                                           "var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255))",
                                       },
-                                      children: "Total Fixed Supply: 21M",
+                                      children: "Total Fixed Supply: 100M",
                                     }),
                                   }),
                                   className: "framer-1mduzfa",
@@ -36417,651 +35910,11 @@ class TestEVAP2PManager(unittest.TestCase):
                           },
                         },
                       },
-                      children: n(ne, {
-                        background: {
-                          alt: "",
-                          fit: "fill",
-                          loading: ge(5897),
-                          pixelHeight: 1153,
-                          pixelWidth: 1262,
-                          sizes: "1442px",
-                          src: "/images/sVVwSvB6awimeDzgsDV3NGEM6Ok.png",
-                          srcSet:
-                            "/images/sVVwSvB6awimeDzgsDV3NGEM6Ok.png?scale-down-to=512 512w,/images/sVVwSvB6awimeDzgsDV3NGEM6Ok.png?scale-down-to=1024 1024w,/images/sVVwSvB6awimeDzgsDV3NGEM6Ok.png 1262w",
-                        },
-                        className: "framer-j9gofv",
-                      }),
-                    }),
-                    n(Q, {
-                      breakpoint: l,
-                      overrides: {
-                        I_cQC0SJ_: {
-                          background: {
-                            alt: "",
-                            fit: "fill",
-                            loading: ge(6628),
-                            pixelHeight: 1291,
-                            pixelWidth: 1312,
-                            sizes: "997px",
-                            src: "/images/IPxTymprFjqdKkfltwZpD8OKdw.png",
-                            srcSet:
-                              "/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=512 512w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=1024 1024w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png 1312w",
-                          },
-                        },
-                        ixzxgUSKb: {
-                          background: {
-                            alt: "",
-                            fit: "fill",
-                            loading: ge(7082),
-                            pixelHeight: 1291,
-                            pixelWidth: 1312,
-                            sizes: "1193px",
-                            src: "/images/IPxTymprFjqdKkfltwZpD8OKdw.png",
-                            srcSet:
-                              "/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=512 512w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=1024 1024w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png 1312w",
-                          },
-                        },
-                        oXRgd0YB4: {
-                          background: {
-                            alt: "",
-                            fit: "fill",
-                            pixelHeight: 1291,
-                            pixelWidth: 1312,
-                            sizes: "390px",
-                            src: "/images/IPxTymprFjqdKkfltwZpD8OKdw.png",
-                            srcSet:
-                              "/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=512 512w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=1024 1024w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png 1312w",
-                          },
-                        },
-                        xIF_hF2cI: {
-                          background: {
-                            alt: "",
-                            fit: "fill",
-                            pixelHeight: 1291,
-                            pixelWidth: 1312,
-                            sizes: "807px",
-                            src: "/images/IPxTymprFjqdKkfltwZpD8OKdw.png",
-                            srcSet:
-                              "/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=512 512w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=1024 1024w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png 1312w",
-                          },
-                        },
-                      },
-                      children: n(ne, {
-                        background: {
-                          alt: "",
-                          fit: "fill",
-                          loading: ge(7250),
-                          pixelHeight: 1291,
-                          pixelWidth: 1312,
-                          sizes: "1443px",
-                          src: "/images/IPxTymprFjqdKkfltwZpD8OKdw.png",
-                          srcSet:
-                            "/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=512 512w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png?scale-down-to=1024 1024w,/images/IPxTymprFjqdKkfltwZpD8OKdw.png 1312w",
-                        },
-                        className: "framer-1ofd5wg",
-                      }),
+                      
                     }),
                     
-                    _("section", {
-                      className: "framer-1eihtji",
-                      "data-framer-name": "Team",
-                      id: q,
-                      name: "Team",
-                      ref: oe,
-                      children: [
-                        n(Q, {
-                          breakpoint: l,
-                          overrides: {
-                            I_cQC0SJ_: {
-                              children: n(S, {
-                                children: n("h2", {
-                                  style: {
-                                    "--font-selector":
-                                      "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                    "--framer-font-family":
-                                      '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                    "--framer-font-size": "80px",
-                                    "--framer-font-weight": "500",
-                                    "--framer-letter-spacing": "-1.5px",
-                                    "--framer-text-color": "rgb(255, 255, 255)",
-                                  },
-                                  children: n("span", {
-                                    "data-text-fill": "true",
-                                    style: {
-                                      backgroundImage:
-                                        "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                    },
-                                    children: "KYC and Audits",
-                                  }),
-                                }),
-                              }),
-                            },
-                            oXRgd0YB4: {
-                              children: n(S, {
-                                children: n("h2", {
-                                  style: {
-                                    "--font-selector":
-                                      "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                    "--framer-font-family":
-                                      '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                    "--framer-font-size": "55px",
-                                    "--framer-font-weight": "500",
-                                    "--framer-letter-spacing": "-1.5px",
-                                    "--framer-text-color": "rgb(255, 255, 255)",
-                                  },
-                                  children: n("span", {
-                                    "data-text-fill": "true",
-                                    style: {
-                                      backgroundImage:
-                                        "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                    },
-                                    children: "KYC and Audits",
-                                  }),
-                                }),
-                              }),
-                            },
-                            xIF_hF2cI: {
-                              children: n(S, {
-                                children: n("h2", {
-                                  style: {
-                                    "--font-selector":
-                                      "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                    "--framer-font-family":
-                                      '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                    "--framer-font-size": "70px",
-                                    "--framer-font-weight": "500",
-                                    "--framer-letter-spacing": "-1.5px",
-                                    "--framer-text-color": "rgb(255, 255, 255)",
-                                  },
-                                  children: n("span", {
-                                    "data-text-fill": "true",
-                                    style: {
-                                      backgroundImage:
-                                        "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                    },
-                                    children: "KYC and Audits",
-                                  }),
-                                }),
-                              }),
-                            },
-                          },
-                          children: n(V, {
-                            __fromCanvasComponent: !0,
-                            children: n(S, {
-                              children: n("h2", {
-                                style: {
-                                  "--font-selector": "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                  "--framer-font-family":
-                                    '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                  "--framer-font-size": "100px",
-                                  "--framer-font-weight": "500",
-                                  "--framer-letter-spacing": "-1.5px",
-                                  "--framer-text-color": "rgb(255, 255, 255)",
-                                },
-                                children: n("span", {
-                                  "data-text-fill": "true",
-                                  style: {
-                                    backgroundImage:
-                                      "linear-gradient(90deg, var(--token-e312cf2d-478c-4df0-9124-23464ed48b15, rgb(255, 255, 255)) 0%, var(--token-c9d7fe05-7134-4c81-9c0d-206984b9774e, rgb(112, 190, 250)) 100%)",
-                                  },
-                                  children: "KYC and Audits",
-                                }),
-                              }),
-                            }),
-                            className: "framer-123bki7",
-                            fonts: ["GF;Inter Tight-500"],
-                            verticalAlignment: "top",
-                            withExternalLayout: !0,
-                          }),
-                        }),
-                        _("div", {
-                          className: "framer-1moc7e2",
-                          "data-framer-name": "2 Columns Text Image",
-                          name: "2 Columns Text Image",
-                          children: [
-                            n("div", {
-                              className: "framer-1s3y8i3",
-                              children: _("div", {
-                                className: "framer-1rhbh7u",
-                                "data-framer-name": "Content",
-                                name: "Content",
-                                children: [
-                                  n(Q, {
-                                    breakpoint: l,
-                                    overrides: {
-                                      oXRgd0YB4: {
-                                        children: n(S, {
-                                          children: n("h1", {
-                                            style: {
-                                              "--font-selector":
-                                                "R0Y7SW50ZXItNzAw",
-                                              "--framer-font-family":
-                                                '"Inter", "Inter Placeholder", sans-serif',
-                                              "--framer-font-size": "30px",
-                                              "--framer-font-weight": "700",
-                                              "--framer-letter-spacing":
-                                                "-1.2px",
-                                              "--framer-text-alignment": "left",
-                                              "--framer-text-color":
-                                                "rgb(51, 51, 51)",
-                                            },
-                                            children:
-                                              "Transparency, commitment and security",
-                                          }),
-                                        }),
-                                      },
-                                      xIF_hF2cI: {
-                                        children: n(S, {
-                                          children: n("h1", {
-                                            style: {
-                                              "--font-selector":
-                                                "R0Y7SW50ZXItNzAw",
-                                              "--framer-font-family":
-                                                '"Inter", "Inter Placeholder", sans-serif',
-                                              "--framer-font-size": "40px",
-                                              "--framer-font-weight": "700",
-                                              "--framer-letter-spacing":
-                                                "-1.8px",
-                                              "--framer-text-alignment": "left",
-                                              "--framer-text-color":
-                                                "rgb(51, 51, 51)",
-                                            },
-                                            children:
-                                              "Transparency, commitment and security",
-                                          }),
-                                        }),
-                                      },
-                                    },
-                                    children: n(V, {
-                                      __fromCanvasComponent: !0,
-                                      children: n(S, {
-                                        children: n("h1", {
-                                          style: {
-                                            "--font-selector":
-                                              "R0Y7SW50ZXItNzAw",
-                                            "--framer-font-family":
-                                              '"Inter", "Inter Placeholder", sans-serif',
-                                            "--framer-font-size": "50px",
-                                            "--framer-font-weight": "700",
-                                            "--framer-letter-spacing": "-2px",
-                                            "--framer-text-alignment": "left",
-                                            "--framer-text-color":
-                                              "rgb(51, 51, 51)",
-                                          },
-                                          children:
-                                            "Transparency, commitment and security",
-                                        }),
-                                      }),
-                                      className: "framer-16hsmt9",
-                                      fonts: ["GF;Inter-700"],
-                                      verticalAlignment: "top",
-                                      withExternalLayout: !0,
-                                    }),
-                                  }),
-                                  n(Q, {
-                                    breakpoint: l,
-                                    overrides: {
-                                      xIF_hF2cI: {
-                                        children: _(S, {
-                                          children: [
-                                            _("h2", {
-                                              style: {
-                                                "--font-selector":
-                                                  "R0Y7SW50ZXItNTAw",
-                                                "--framer-font-family":
-                                                  '"Inter", "Inter Placeholder", sans-serif',
-                                                "--framer-font-size": "15px",
-                                                "--framer-font-weight": "500",
-                                                "--framer-letter-spacing":
-                                                  "-0.5px",
-                                                "--framer-line-height": "1.5em",
-                                                "--framer-text-alignment":
-                                                  "left",
-                                                "--framer-text-color":
-                                                  "rgb(136, 136, 136)",
-                                              },
-                                              children: [
-                                                "To comply with CEX requirements and provide security, we have KYC verification, and the contract has also been audited.",
-                                                n("br", {}),
-                                                n("br", {
-                                                  className: "trailing-break",
-                                                }),
-                                              ],
-                                            }),
-                                            n("h2", {
-                                              style: {
-                                                "--font-selector":
-                                                  "R0Y7SW50ZXItNTAw",
-                                                "--framer-font-family":
-                                                  '"Inter", "Inter Placeholder", sans-serif',
-                                                "--framer-font-size": "15px",
-                                                "--framer-font-weight": "500",
-                                                "--framer-letter-spacing":
-                                                  "-0.5px",
-                                                "--framer-line-height": "1.5em",
-                                                "--framer-text-alignment":
-                                                  "left",
-                                                "--framer-text-color":
-                                                  "rgb(136, 136, 136)",
-                                              },
-                                              children:
-                                                "The EVA project runs under the legal figure of a duly registered Foundation.",
-                                            }),
-                                          ],
-                                        }),
-                                      },
-                                    },
-                                    children: n(V, {
-                                      __fromCanvasComponent: !0,
-                                      children: _(S, {
-                                        children: [
-                                          _("h2", {
-                                            style: {
-                                              "--font-selector":
-                                                "R0Y7SW50ZXItNTAw",
-                                              "--framer-font-family":
-                                                '"Inter", "Inter Placeholder", sans-serif',
-                                              "--framer-font-size": "24px",
-                                              "--framer-font-weight": "500",
-                                              "--framer-letter-spacing":
-                                                "-0.5px",
-                                              "--framer-line-height": "1.5em",
-                                              "--framer-text-alignment": "left",
-                                              "--framer-text-color":
-                                                "rgb(136, 136, 136)",
-                                            },
-                                            children: [
-                                              "To comply with CEX requirements and provide security, we have KYC verification, and the contract has also been audited.",
-                                              n("br", {}),
-                                              n("br", {
-                                                className: "trailing-break",
-                                              }),
-                                            ],
-                                          }),
-                                          n("h2", {
-                                            style: {
-                                              "--font-selector":
-                                                "R0Y7SW50ZXItNTAw",
-                                              "--framer-font-family":
-                                                '"Inter", "Inter Placeholder", sans-serif',
-                                              "--framer-font-size": "24px",
-                                              "--framer-font-weight": "500",
-                                              "--framer-letter-spacing":
-                                                "-0.5px",
-                                              "--framer-line-height": "1.5em",
-                                              "--framer-text-alignment": "left",
-                                              "--framer-text-color":
-                                                "rgb(136, 136, 136)",
-                                            },
-                                            children:
-                                              "The EVA project runs under the legal figure of a duly registered Foundation.",
-                                          }),
-                                        ],
-                                      }),
-                                      className: "framer-14pb95",
-                                      fonts: ["GF;Inter-500"],
-                                      verticalAlignment: "top",
-                                      withExternalLayout: !0,
-                                    }),
-                                  }),
-                                  _("div", {
-                                    className: "framer-xb28w5",
-                                    children: [
-                                      n(he, {
-                                        href: "https://assuredefi.com/projects/eva-intelligence",
-                                        openInNewTab: !0,
-                                        children: n("a", {
-                                          className:
-                                            "framer-1v1nabb framer-lux5qc",
-                                          "data-framer-name": "Button",
-                                          name: "Button",
-                                          children: n(V, {
-                                            __fromCanvasComponent: !0,
-                                            children: n(S, {
-                                              children: n("p", {
-                                                style: {
-                                                  "--font-selector":
-                                                    "R0Y7SW50ZXItNzAw",
-                                                  "--framer-font-family":
-                                                    '"Inter", "Inter Placeholder", sans-serif',
-                                                  "--framer-font-size": "14px",
-                                                  "--framer-font-weight": "700",
-                                                  "--framer-text-alignment":
-                                                    "center",
-                                                  "--framer-text-color":
-                                                    "rgb(255, 255, 255)",
-                                                },
-                                                children: "ASSURE KYC ",
-                                              }),
-                                            }),
-                                            className: "framer-1rusvg9",
-                                            fonts: ["GF;Inter-700"],
-                                            verticalAlignment: "top",
-                                            withExternalLayout: !0,
-                                          }),
-                                        }),
-                                      }),
-                                      n("div", {
-                                        className: "framer-1wv29pw",
-                                        "data-framer-name": "Button",
-                                        name: "Button",
-                                        children: n(V, {
-                                          __fromCanvasComponent: !0,
-                                          children: n(S, {
-                                            children: n("p", {
-                                              style: {
-                                                "--font-selector":
-                                                  "R0Y7SW50ZXItNzAw",
-                                                "--framer-font-family":
-                                                  '"Inter", "Inter Placeholder", sans-serif',
-                                                "--framer-font-size": "14px",
-                                                "--framer-font-weight": "700",
-                                                "--framer-text-alignment":
-                                                  "center",
-                                                "--framer-text-color":
-                                                  "rgb(51, 51, 51)",
-                                              },
-                                              children: n(he, {
-                                                href: "https://github.com/Assure-DeFi/Audits/blob/main/EVA%20Token_ADV2_09_12_24.pdf",
-                                                openInNewTab: !0,
-                                                smoothScroll: !1,
-                                                children: n("a", {
-                                                  className:
-                                                    "framer-styles-preset-57rakp",
-                                                  "data-styles-preset":
-                                                    "zMpsiMOLk",
-                                                  children: "Contract Audit",
-                                                }),
-                                              }),
-                                            }),
-                                          }),
-                                          className: "framer-1h67ut1",
-                                          fonts: ["GF;Inter-700"],
-                                          verticalAlignment: "top",
-                                          withExternalLayout: !0,
-                                        }),
-                                      }),
-                                    ],
-                                  }),
-                                  n(Q, {
-                                    breakpoint: l,
-                                    overrides: {
-                                      I_cQC0SJ_: {
-                                        background: {
-                                          alt: "",
-                                          fit: "fit",
-                                          loading: ge(8878.5),
-                                          pixelHeight: 169,
-                                          pixelWidth: 575,
-                                          positionX: "center",
-                                          positionY: "center",
-                                          sizes: "269px",
-                                          src: "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png",
-                                          srcSet:
-                                            "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png?scale-down-to=512 512w,/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png 575w",
-                                        },
-                                      },
-                                      ixzxgUSKb: {
-                                        background: {
-                                          alt: "",
-                                          fit: "fit",
-                                          loading: ge(9591),
-                                          pixelHeight: 169,
-                                          pixelWidth: 575,
-                                          positionX: "center",
-                                          positionY: "center",
-                                          sizes: "269px",
-                                          src: "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png",
-                                          srcSet:
-                                            "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png?scale-down-to=512 512w,/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png 575w",
-                                        },
-                                      },
-                                      oXRgd0YB4: {
-                                        background: {
-                                          alt: "",
-                                          fit: "fit",
-                                          pixelHeight: 169,
-                                          pixelWidth: 575,
-                                          positionX: "center",
-                                          positionY: "center",
-                                          sizes: "269px",
-                                          src: "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png",
-                                          srcSet:
-                                            "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png?scale-down-to=512 512w,/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png 575w",
-                                        },
-                                      },
-                                      xIF_hF2cI: {
-                                        background: {
-                                          alt: "",
-                                          fit: "fit",
-                                          pixelHeight: 169,
-                                          pixelWidth: 575,
-                                          positionX: "center",
-                                          positionY: "center",
-                                          sizes: "269px",
-                                          src: "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png",
-                                          srcSet:
-                                            "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png?scale-down-to=512 512w,/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png 575w",
-                                        },
-                                      },
-                                    },
-                                    children: n(ne, {
-                                      background: {
-                                        alt: "",
-                                        fit: "fit",
-                                        loading: ge(9978.5),
-                                        pixelHeight: 169,
-                                        pixelWidth: 575,
-                                        positionX: "center",
-                                        positionY: "center",
-                                        sizes: "269px",
-                                        src: "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png",
-                                        srcSet:
-                                          "/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png?scale-down-to=512 512w,/images/Vy3zcpYttY5r9VuuIlVCeQ5i6A.png 575w",
-                                      },
-                                      className: "framer-1ty2y6j",
-                                    }),
-                                  }),
-                                ],
-                              }),
-                            }),
-                            n(Q, {
-                              breakpoint: l,
-                              overrides: {
-                                I_cQC0SJ_: {
-                                  background: {
-                                    alt: "",
-                                    fit: "fit",
-                                    intrinsicHeight: 720,
-                                    intrinsicWidth: 960,
-                                    loading: ge(8498),
-                                    pixelHeight: 900,
-                                    pixelWidth: 600,
-                                    positionX: "left",
-                                    positionY: "center",
-                                    sizes: "max((100vw - 80px) / 2, 1px)",
-                                    src: "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif",
-                                    srcSet:
-                                      "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif 600w",
-                                  },
-                                },
-                                ixzxgUSKb: {
-                                  background: {
-                                    alt: "",
-                                    fit: "fit",
-                                    intrinsicHeight: 720,
-                                    intrinsicWidth: 960,
-                                    loading: ge(9135),
-                                    pixelHeight: 900,
-                                    pixelWidth: 600,
-                                    positionX: "left",
-                                    positionY: "center",
-                                    sizes: "max((100vw - 80px) / 2, 1px)",
-                                    src: "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif",
-                                    srcSet:
-                                      "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif 600w",
-                                  },
-                                },
-                                oXRgd0YB4: {
-                                  background: {
-                                    alt: "",
-                                    fit: "fit",
-                                    intrinsicHeight: 720,
-                                    intrinsicWidth: 960,
-                                    pixelHeight: 900,
-                                    pixelWidth: 600,
-                                    positionX: "left",
-                                    positionY: "center",
-                                    sizes: "calc(100vw - 30px)",
-                                    src: "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif",
-                                    srcSet:
-                                      "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif 600w",
-                                  },
-                                },
-                                xIF_hF2cI: {
-                                  background: {
-                                    alt: "",
-                                    fit: "fit",
-                                    intrinsicHeight: 720,
-                                    intrinsicWidth: 960,
-                                    pixelHeight: 900,
-                                    pixelWidth: 600,
-                                    positionX: "left",
-                                    positionY: "center",
-                                    sizes: "max((100vw - 80px) / 2, 1px)",
-                                    src: "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif",
-                                    srcSet:
-                                      "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif 600w",
-                                  },
-                                },
-                              },
-                              children: n(ne, {
-                                background: {
-                                  alt: "",
-                                  fit: "fit",
-                                  intrinsicHeight: 720,
-                                  intrinsicWidth: 960,
-                                  loading: ge(9581),
-                                  pixelHeight: 900,
-                                  pixelWidth: 600,
-                                  positionX: "left",
-                                  positionY: "center",
-                                  sizes: "max((100vw - 80px) / 2, 1px)",
-                                  src: "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif",
-                                  srcSet:
-                                    "/images/UgoePXdvomQw3RfNtAQW6mqeRxs.gif 600w",
-                                },
-                                className: "framer-xqvmb8",
-                                "data-framer-name": "Image",
-                                id: ve,
-                                name: "Image",
-                                ref: B,
-                              }),
-                            }),
-                          ],
-                        }),
-                      ],
-                    }),
+
+              
                     _("div", {
                       className: "framer-wf8ckz",
                       "data-framer-name": "2 Columns Text Image",
@@ -37884,8 +36737,7 @@ class TestEVAP2PManager(unittest.TestCase):
                                                 "--framer-text-color":
                                                   "var(--token-1726de61-bcea-46e8-a923-b720fc633e9c, rgb(156, 156, 156))",
                                               },
-                                              children:
-                                                "Eva AI Foundation",
+                                              children: "Eva AI Foundation",
                                             }),
                                             n("p", {
                                               style: {
